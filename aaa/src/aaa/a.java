@@ -2,7 +2,7 @@ package aaa;
 
 import java.util.Scanner;
 
-public class a {
+public class aa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -68,13 +68,6 @@ public class a {
 		}
 		System.out.println(brojac);
 		*/
-		
-		
-		
-		
-		
-		
-
 		
 	}
 
